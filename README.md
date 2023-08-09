@@ -20,7 +20,7 @@
 > > * 각 인원 위치에 게임 룰에 따른 카드 분배 동작
 > > * MG995 서브 모터를 활용한 카드 출력 부분 제어
 >
-> [**NOTION**](https://www.notion.so/db9bc874b60b441797a1a5883396fe31?pvs=4)
+> [**NOTION 링크**](https://www.notion.so/db9bc874b60b441797a1a5883396fe31?pvs=4)
 
 
 
